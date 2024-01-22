@@ -1,0 +1,11 @@
+MONGODB_HOST: mongodb.mvaws.online # submit your host
+REDIS_HOST: redis.mvaws.online
+MYSQL_HOST: mysql.mvaws.online
+RABBITMQ_HOST: rabbitmq.mvaws.online
+CATALOGUE_HOST: catalogue.mvaws.online
+USER_HOST: user.mvaws.online
+CART_HOST: cart.mvaws.online
+SHIPPING_HOST: shipping.mvaws.online
+PAYMENT_HOST: payment.mvaws.online
+DISPATCH_HOST: dispatch.mvaws.online
+WEB_HOST: web.mvaws.online
