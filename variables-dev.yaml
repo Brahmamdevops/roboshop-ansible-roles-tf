@@ -9,3 +9,5 @@ SHIPPING_HOST: shipping.app-dev.mvaws.online
 PAYMENT_HOST: payment.app-dev.mvaws.online
 DISPATCH_HOST: dispatch.app-dev.mvaws.online
 WEB_HOST: web-dev.mvaws.online
+NEXUS_URL: http://172.31.5.38:8081/repository
+group_id: "com/roboshop"
